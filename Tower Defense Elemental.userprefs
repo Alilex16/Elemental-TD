@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Tutorial\Scripts\Example1.cs">
+    <Files>
+      <File FileName="Assets\Tutorial\Scripts\ElementalGem.cs" Line="8" Column="80" />
+      <File FileName="Assets\Tutorial\Scripts\Shop.cs" Line="10" Column="2" />
+      <File FileName="Assets\Tutorial\Scripts\TurretBlueprint.cs" Line="12" Column="2" />
+      <File FileName="Assets\Tutorial\Scripts\BuildManager.cs" Line="10" Column="2" />
+      <File FileName="Assets\Tutorial\Scripts\Node.cs" Line="22" Column="1" />
+      <File FileName="Assets\Tutorial\Scripts\WaveSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial\Scripts\CompleteLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial\Scripts\NodeUI.cs" Line="26" Column="1" />
+      <File FileName="Assets\Tutorial\Scripts\Example.cs" Line="27" Column="2" />
+      <File FileName="Assets\Tutorial\Scripts\AffinityBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial\Scripts\Example1.cs" Line="27" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="C:\Users\Alex\Documents\Unity Projects\Tower Defense Elemental\Assets\Tutorial\Scripts\Example1.cs" line="27" column="2" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
